@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.AnimationModule" />
+    <Reference Include="UnityEngine.Physics2DModule" />
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="Unity.InputSystem" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="Assembly-CSharp-firstpass" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="com.rlabrecque.steamworks.net" />
+    <Reference Include="Unity.Localization" />
+    <Reference Include="Unity.Services.Core" />
+    <Reference Include="UnityEngine.JSONSerializeModule" />
+    <Reference Include="Unity.Services.Analytics" />
+    <Reference Include="Unity.ResourceManager" />
+  </ItemGroup>
+</Project>
