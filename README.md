@@ -2,7 +2,7 @@
   ⛏️📦 
 </div>
 <h1 align="center">
-  TheLastSpell-Decompile
+  ShogunShowdown-Decompile
 </h1>
 
 <p align="center">
